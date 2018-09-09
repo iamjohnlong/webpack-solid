@@ -1,11 +1,9 @@
-# Webpack 4 Boilerplate
+# Webpack 4 / Solidjs Boilerplate
 
 Includes:
 
-* Babel/preset-env
-* React 16
-* React Route 4
-* Eslint/Airbnb config
+* Babel 7/preset-env
+* solid js
 
 # install
 
